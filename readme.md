@@ -8,7 +8,7 @@ Work together on tests for DB course (Maman - 236363) assignment 2.
 ###Usage
 To just run the tests: 
 - Download or clone the files as is and put them
-under `src/test/` in your project (e.g the path to staff abstract 
+under `src/test/java/` in your project (e.g the path to staff abstract 
 test should be `src/test/java/corona/AbstractTest.java`).
 - Set the `java` directory you just copied to be a 
 "Test Sources Root" in your IntelliJ (no idea how it works
