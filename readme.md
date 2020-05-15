@@ -1,11 +1,11 @@
 # Tests for DB course HW2
 Work together on tests for DB course (Maman - 236363) assignment 2.
 
-###Structure
+### Structure
 - The 'corona' package contains the tests provided by the staff.
 - The 'extra' package contains tests added by students.
 
-###Usage
+### Usage
 To just run the tests: 
 - Download or clone the files as is and put them
 under `src/test/java/` in your project (e.g the path to staff abstract 
@@ -15,7 +15,7 @@ test should be `src/test/java/corona/AbstractTest.java`).
 in Eclipse).
 - Run the desired classes like regular JUnit4 tests.
 
-###Collaboration
+### Collaboration
 If this is your first time working with git, read or watch some 
 basic tutorial to know what branches, commits and 
 pull requests are. I'll add some links later.
