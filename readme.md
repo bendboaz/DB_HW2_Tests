@@ -3,7 +3,9 @@ Work together on tests for DB course (Maman - 236363) assignment 2.
 
 ### Structure
 - The 'corona' package contains the tests provided by the staff.
-- The 'extra' package contains tests added by students.
+- The 'extra' package contains tests added by Joseph Hakim and Tzuriel Mazuz.
+- The 'einat' package conatins tests added by einat (don't know your 
+    last name,if you're reading this you're welcome to comment :P).
 
 ### Usage
 To just run the tests: 
